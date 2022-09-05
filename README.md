@@ -41,9 +41,5 @@ The people currently working on the tool are:
 
 * Khayyam Salehi, currently a Ph.D. student at University of Tabriz and developer of the project,
 
-* Ali A. Noroozi, currently a Ph.D. student at [University of Tabriz](http://tabrizu.ac.ir/en) and developer of the project,
-
-* [Jaber Karimpour](http://simap.tabrizu.ac.ir/cv/karimpour/?lang=en-gb), an associate professor at University of Tabriz and supervisor of the project,
-
-* [Ayaz Isazadeh](http://isazadeh.net/ayaz), a professor at University of Tabriz and supervisor of the project.
+* Ali A. Noroozi, currently a Ph.D. student at [University of Tabriz](http://tabrizu.ac.ir/en) and developer of the project.
 
